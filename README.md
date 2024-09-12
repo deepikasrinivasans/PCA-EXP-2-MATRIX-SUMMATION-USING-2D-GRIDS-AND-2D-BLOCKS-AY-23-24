@@ -1,4 +1,4 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+# PCA EXP-2 Matrix Summation using 2D Grids and 2D Blocks AY 23 24
 
 ### NAME : DEEPIKA S
 ### REGISTER NO: 212222230028
